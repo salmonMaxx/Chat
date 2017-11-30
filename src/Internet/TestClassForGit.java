@@ -10,8 +10,8 @@ package Internet;
  * @author maxxw
  */
 public class TestClassForGit {
-    String works;
+    boolean works;
     TestClassForGit(){
-        
+        works = true;
     }
 }
